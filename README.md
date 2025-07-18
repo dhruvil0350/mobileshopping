@@ -1,1 +1,1 @@
-# mobileshopping
+# blinkmobileshopping
